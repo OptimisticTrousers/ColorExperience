@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492001104592",
+    "firebase_url": "https://seecolor-e98f4.firebaseio.com",
+    "project_id": "seecolor-e98f4",
+    "storage_bucket": "seecolor-e98f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492001104592:android:d024643ef13f45720a04d5",
+        "android_client_info": {
+          "package_name": "com.IWANCIW.see_color"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492001104592-o1kdbn9s7ugvbj1k2rie0birqk01bd49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOsZaF9hFPa9mqXy4dgwgp1fdl4vzqcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492001104592-o1kdbn9s7ugvbj1k2rie0birqk01bd49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
